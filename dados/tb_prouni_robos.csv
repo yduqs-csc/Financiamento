@@ -1,0 +1,26 @@
+﻿PROCESSO;DESCRICAO;CONSULTA
+Prouni - Previa Adesão;075 – Relatório de representantes;AUDITORIA.RPA_075_RELAT_REPRESENT_PROUNI
+Prouni - Previa Adesão;079 – Cadastro Representantes;
+Prouni - Adesão;001 – cadastro de sku;AUDITORIA.RPA_001_ADESAO_PROUNI_RETORNO
+Prouni - Adesão;004 – Relatório de cursos disponíveis no SISPROUNI;AUDITORIA.RPA_004_CURSOS_PROUNI
+Prouni - Adesão;012 – assinatura do termo de adesão (foi pedido pra retirar o salvamento do termo);AUDITORIA.RPA_012_BOLSAS_PROUNI
+Prouni - Adesão;109 – 2ª via do Termo de Adesão (este é q deve ser o robô de contagem);AUDITORIA.RPA_109_2VIA_TERMO_CURSOS
+Prouni - Adesão;160 - Receita da IES;dev_mis.arvore.vw_arvore_prouni (DataBricks)
+Prouni - Adesão;Ratificação da Vagas para calcular adicionais;AUDITORIA.IND_ADESAO_PROUNI_RETIFICACAO
+Prouni - Adesão;Resultado de todas as informações da Adesão;AUDITORIA.IND_ADESAO_PROUNI_CONSOLIDADA
+Prouni - Processo Seletivo;025 – Extrair base de candidatos da Lista de Espera;AUDITORIA.RPA_025_RESULT_LISTA_ESPERA
+Prouni - Processo Seletivo;032 – Extrair base de pré-selecionados da 1ª e/ou 2ª chamada;AUDITORIA.RPA_CONSUL_PSEL_PROUNI
+Prouni - Processo Seletivo;034 – extração de base de candidatos da 1ª e/ou 2ª chamada;AUDITORIA.RPA_CANDIDATO_PROUNI
+Prouni - Processo Seletivo;040 – extração de resultado diário das aprovações/reprovações de 1ª e/ou 2ª chamada;AUDITORIA.RPA_SEL_RESULT_PROUNI
+Prouni - Processo Seletivo;050 – extração de base de resultado diário das aprovações/reprovações de Lista de Espera;AUDITORIA.RPA_050_3_LISTA_ESPERA_ALUNO
+Prouni - Processo Seletivo;151 – ficha de inscrição;AUDITORIA.RPA_151_FICHA_PSEL_PROUNI_CS
+Prouni - Processo Seletivo;163 – aprovação/reprovação 1 e 2 chamada;
+Prouni - Processo Seletivo;164 – aprovação/rep lista de espera;
+Prouni - Processo Seletivo;187-01-20_TR_Coletivo_PROUNI;187_Input.xlsx é a base do Robô para fechamento dos locais de oferta
+Prouni - Processo Seletivo;Procedure 040, 032, 034...;AUDITORIA.IND_SELECAO_PROUNI_CONSOLIDADA
+Prouni - Manutenção;008 – Extração dos bolsistas Prouni;AUDITORIA.RPA_BOLSISTAS_PROUNI
+Prouni - Manutenção;009 – extração de base de reconsideração do histórico dos bolsistas Prouni;"AUDITORIA.RPA_009_PROUNI_RECONSIDERACAO;"
+Prouni - Manutenção;024 – encerramento/suspensão dos bolsistas;
+Prouni - Manutenção;031 – Assinatura de Local de oferta para atualização coletiva;
+Prouni - Manutenção;084 – extração prévia de bolsista da 1ª etapa da manutenção;AUDITORIA.RPA_084_MAN_PROUNI_ETAPA1
+Prouni - Manutenção;167 – Realiza a extração da 2ª via dos Termos Individuais e de Atualização Coletiva;
