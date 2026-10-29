@@ -1,0 +1,42 @@
+Bases PowerBI Prouni
+https://estacio.sharepoint.com/sites/servicosdefaturamentoefinanciamentos/00Gerncia/Forms/AllItems.aspx?id=%2Fsites%2Fservicosdefaturamentoefinanciamentos%2F00Gerncia%2FPAINEIS%20PBI%2F02%2EPROUNI%2FPRE%5FSELECIONADOS%5FPROUNI%2Fbases%5Ffunil%5Fprouni&viewid=592d8947%2Dc696%2D4c99%2Dbb7c%2D1a9ad6eed3e4&newTargetListUrl=%2Fsites%2Fservicosdefaturamentoefinanciamentos%2F00Gerncia&viewpath=%2Fsites%2Fservicosdefaturamentoefinanciamentos%2F00Gerncia%2FForms%2FAllItems%2Easpx&TeamsCID=241b29e8%2D304e%2D4791%2Daabd%2D5eae57c52898
+
+Bases Arquivo SisProuni
+https://estacio.sharepoint.com/sites/SoluesdeAutomao/Documentos%20Compartilhados/Forms/AllItems.aspx?id=%2Fsites%2FSoluesdeAutomao%2FDocumentos%20Compartilhados%2FIndicadores%2FBases%2FBases%20%2D%20Financiamentos%2FSFTP%20NEOBPO%2FSISPROUNI%20ATUAL&sortField=Modified&isAscending=false&viewid=71b237e5%2D3bf9%2D49c7%2D8555%2D6810e29d9847&OR=Teams%2DHL&CT=1770897974368
+
+Bases Upload Funil Prouni:
+https://estacio.sharepoint.com/sites/servicosdefaturamentoefinanciamentos/00Gerncia/Forms/AllItems.aspx?id=%2Fsites%2Fservicosdefaturamentoefinanciamentos%2F00Gerncia%2FACESSO%20EXTERNO%2FPROUNI%2FPROCESSO%20SELETIVO%2F2026%2E2%2FFunil&sortField=Created&isAscending=false&viewid=592d8947%2Dc696%2D4c99%2Dbb7c%2D1a9ad6eed3e4&newTargetListUrl=%2Fsites%2Fservicosdefaturamentoefinanciamentos%2F00Gerncia&viewpath=%2Fsites%2Fservicosdefaturamentoefinanciamentos%2F00Gerncia%2FForms%2FAllItems%2Easpx&TeamsCID=2b1e4c7f%2D8bd3%2D4232%2D948b%2Dea807b2c15ac
+
+Painel dos Robôs - RPA
+https://app.powerbi.com/groups/me/apps/6db78f69-f5d8-4b98-a62b-086667e5d1c3/reports/8e3b1267-ad99-4374-a01f-4da67051c3e2/2553a2c255b60904a141?ctid=29e081cc-983f-4d52-b1d0-103595213bc6&experience=power-bi
+
+Chamado - Abertura para Criação e Manutenção Power Bi
+https://yduqs.service-now.com/esc?id=sc_cat_item&sys_id=352985241ba40ed0ff94404be54bcb5f
+
+Chamado - Indicadores Automatizados para o CSC migração DataBricks Robô
+https://yduqs.service-now.com/esc?id=sc_cat_item&sys_id=664ba30d1be44214ff94404be54bcbe6
+
+Chamado - Abertura de chamadado Solicitação de acesso a softwares:
+https://yduqs.service-now.com/esc?id=sc_cat_item&sys_id=53e4dd5a1b8ce914ff94404be54bcb32
+
+Link do desenvolvimento do painel
+https://app.powerbi.com/groups/76b66dc9-d0eb-4c93-9e02-5c5bf98e2109/reports/b1e33863-bafe-49df-90de-e230bcb6983d/026f5b0acb9b3e0c5970?experience=power-bi
+
+Link de divulgação do Painel Prouni
+https://app.powerbi.com/groups/me/apps/6db78f69-f5d8-4b98-a62b-086667e5d1c3/reports/fa67a3d6-97b0-41b5-bef7-866a2493b5af/026f5b0acb9b3e0c5970?ctid=29e081cc-983f-4d52-b1d0-103595213bc6&experience=power-bi
+
+Databricks: https://adb-8529914622317003.3.azuredatabricks.net/?o=8529914622317003
+
+Base Digitaliza:
+https://estacio.sharepoint.com/sites/SoluesdeAutomao/Documentos%20Compartilhados/Forms/AllItems.aspx?id=%2Fsites%2FSoluesdeAutomao%2FDocumentos%20Compartilhados%2FIndicadores%2FBases%2FBases%20%2D%20Financiamentos%2FSFTP%20NEOBPO%2FSISPROUNI%20ATUAL&sortField
+
+SalesForce: https://yduqs2020.lightning.force.com/lightning/page/home
+
+Jano: https://yduqs.improvefy.com | gerson.gomes@yduqs.com.br, | psw: 1234.
+
+
+
+
+
+
+
